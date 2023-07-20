@@ -1,2 +1,2 @@
 # OIBSIP
-Projects made during internship at Oasisi Infobyte
+Projects made during internship at Oasis Infobyte
