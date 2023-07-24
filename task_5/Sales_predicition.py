@@ -35,6 +35,9 @@ print(np.concatenate((y_pred.reshape(len(y_pred),1), y_test.reshape(len(y_test),
 
 from sklearn.metrics import r2_score
 r2_score(y_test, y_pred)
+from sklearn.metrics import mean_squared_error
+m = mean_squared_error(y_test,y_pred)
+print(m)
 
 print(X_test.shape)
 print(y_test.shape)
