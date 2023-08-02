@@ -1,3 +1,8 @@
+#Oasis Infobyte Project
+##Sales Prediction
+#"task 1"
+###Arshpreet Singh
+
 # Random Forest Regression
 
 ## Importing the libraries
